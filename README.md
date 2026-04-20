@@ -1,2 +1,3 @@
-# Live-Football-Updates
-Live Football Updates.
+# Daily Learning Bot
+
+Daily Learning Bot.
